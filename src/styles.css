@@ -42,3 +42,7 @@ h4 {
   font-size: x-large;
   font-style: bold;
 }
+p {
+  display: block;
+  margin: 0 auto;
+}
