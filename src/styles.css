@@ -1,0 +1,44 @@
+body {
+  background: #5dacbd;
+  font-family: pt mono;
+  color: white;
+}
+h4 {
+  text-align: center;
+}
+.temp {
+  text-align: center;
+  font-size: x-large;
+}
+.unit {
+  font-size: x-large;
+}
+.city {
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: rgb(180, 168, 168);
+  display: block;
+  margin: 0 auto;
+}
+.enter {
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+.card {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: rgb(180, 168, 168);
+}
+
+.card-title {
+  color: whitesmoke;
+}
+
+.card-text {
+  color: whitesmoke;
+  font-size: x-large;
+  font-style: bold;
+}
